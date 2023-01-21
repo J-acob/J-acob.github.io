@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Jacob&#39;s portfiolio website</title>
+    <link>https://j-acob.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on Jacob&#39;s portfiolio website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first test post</title>
+      <link>https://j-acob.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

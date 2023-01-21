@@ -2,13 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jacob&#39;s portfiolio website</title>
-    <link>https://J-acob.github.io/categories/</link>
+    <link>https://j-acob.github.io/categories/</link>
     <description>Recent content in Categories on Jacob&#39;s portfiolio website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://J-acob.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>https://j-acob.github.io/categories/game/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/categories/game/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

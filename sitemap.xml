@@ -1,17 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://J-acob.github.io/categories/</loc>
+    <loc>https://j-acob.github.io/authors/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/categories/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/tags/game/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/categories/game/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/authors/jacob-cheney/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/tags/markdown/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/posts/my-first-post/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/posts/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/tags/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/tags/text/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://j-acob.github.io/contact/</loc>
+  </url><url>
+    <loc>https://j-acob.github.io/projects/</loc>
+  </url><url>
+    <loc>https://j-acob.github.io/series/</loc>
   </url>
-  
-  <url>
-    <loc>https://J-acob.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://J-acob.github.io/tags/</loc>
-  </url>
-  
 </urlset>

@@ -2,13 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob&#39;s portfiolio website</title>
-    <link>https://J-acob.github.io/</link>
+    <link>https://j-acob.github.io/</link>
     <description>Recent content on Jacob&#39;s portfiolio website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first test post</title>
+      <link>https://j-acob.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://J-acob.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://j-acob.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/about/</guid>
+      <description>Hey there. I&amp;rsquo;m Jacob. I&amp;rsquo;m a software engineer with a bachelors degree in computer science. I operate in many software domains; including but not limited to: graphics, web, systems, languages, and, game development.
+I care a lot about open source software, education, and sustainable software practices.
+My favorite languages are - Rust 🦀, Typescript, C#, and Go/Golang. I&amp;rsquo;m also comfortable with working in any of the &amp;ldquo;C descended languages&amp;rdquo; such as C++, PHP, Perl, etc.</description>
+    </item>
     
+    <item>
+      <title>Contact</title>
+      <link>https://j-acob.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/contact/</guid>
+      <description>Email me at jacobcdev@gmail.com.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://j-acob.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-acob.github.io/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
