@@ -5,16 +5,6 @@
     <link>https://j-acob.github.io/categories/</link>
     <description>Recent content in Categories on Jacob&#39;s portfiolio website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>stuff</title>
-      <link>https://j-acob.github.io/categories/stuff/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-acob.github.io/categories/stuff/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://j-acob.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
