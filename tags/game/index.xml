@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first test post</title>
+      <title>My first post</title>
       <link>https://j-acob.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://j-acob.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>Heyo. This is my first blog entry ever. I&amp;rsquo;m not sure what to write about here. There&amp;rsquo;s a lot of potential topics I want to cover here relating to my career and hobbies. I&amp;rsquo;m planning on figuring out how to load webassembly and have some interesting content/games load onto this website. For now, I need to figure out how hugo really works for building websites.
+There&amp;rsquo;s a lot of integrations that are available for the theme I&amp;rsquo;m using for this site that I want to explore (such as comments for posts).</description>
     </item>
     
   </channel>
