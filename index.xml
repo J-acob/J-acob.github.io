@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://j-acob.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Shallows</title>
-      <link>https://j-acob.github.io/games/my-first-game/</link>
+      <link>https://j-acob.github.io/games/shallows/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://j-acob.github.io/games/my-first-game/</guid>
+      <guid>https://j-acob.github.io/games/shallows/</guid>
       <description>Controls Link to heading Movement - WASD Shooting - Mouse + Click UI - Press esc to navigate &amp;ldquo;back&amp;rdquo; in any given ui state
 This is a pre-pre-alpha demo version of a game I&amp;rsquo;ve been working on as a way to learn Rust on a more intricate level. The gameplay is very barebones right now. A single level with some enemies, once you kill them all - you win.</description>
     </item>
